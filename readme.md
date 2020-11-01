@@ -1,8 +1,8 @@
-# {first wepage}
+# {first webpage}
 #### {learn to code, is my most passionate thing i ever wanted.}, {31/Oct/2020}
-#### By **{ken, odhiambo}**
+#### By **{ken, Odhiambo}**
 ## Description
-{indents to be a web developer,i we learn how to code and find ways to get tech jobs available. its a personal learning press for the purpose of growth.,this is just a sketch real copy is still at on the process. }
+{indents to be a web developer, I we learn how to code and find ways to get tech jobs available. its a personal learning press for the purpose of growth., this is just a sketch real copy is still at on the process. }
 ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
@@ -15,7 +15,7 @@
 ## Technologies Used
 {html}
 ## Support and contact details
-{contact ne via sms only: 0712375209}
+{contact ne via SMS only: 0712375209}
 ### License
 *{  MIT}*
 Copyright (c) {2020} **{Flex Odhiambo, Kennedy Ochieng}**
