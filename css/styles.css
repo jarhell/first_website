@@ -8,3 +8,9 @@ h2 {
   font-family: fantasy;
   color: purple;
 }
+ul {
+  line-height: 40px;
+}
+body {
+background-color: lightblue;
+}
